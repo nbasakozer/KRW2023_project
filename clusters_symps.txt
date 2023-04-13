@@ -1,0 +1,3 @@
+1:http://www.medsur.org/symptom/10040586
+0:http://www.medsur.org/symptom/10029792
+2:http://www.medsur.org/symptom/10064310
